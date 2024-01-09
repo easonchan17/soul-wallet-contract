@@ -14,7 +14,7 @@
 
 ## Repository overview
 
-Below is a brief overview of the repository contracts
+Below is a brief overview of the repository contracts...
 
 ### SoulWalletFactory
 
