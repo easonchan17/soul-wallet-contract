@@ -12,7 +12,7 @@
     "deploy:optimistic": "npx hardhat run scripts/deploy.ts --network optimistic"
   },
   "devDependencies": {
-    "@chainlink/contracts": "^0.6.0",
+    "@chainlink/contracts": "0.6.0",
     "@ethersproject/abi": "^5.6.4",
     "@ethersproject/providers": "^5.6.8",
     "@nomicfoundation/hardhat-chai-matchers": "^1.0.2",
